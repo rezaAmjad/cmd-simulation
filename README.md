@@ -7,4 +7,6 @@ By running the cmdSimulation.py you would see the 'root' directory in the termin
 * ls
 * cd 'directory name'
 
+This code was written in python 3.8
+
 
